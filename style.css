@@ -1,0 +1,114 @@
+body{
+	background-image:url("cofee.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+}
+.up h1{font-family:Holtwood One SC, serif;
+	padding-top:28px;
+	color:orange;
+}
+.up p{font-family: Playfair Display SC, serif;
+	padding-top:0px;
+	padding-bottom:20px;
+	color:white;
+	font-size:70px;
+}
+.ul{background-color:#6F4E37;
+	padding-top:18px;
+	padding-bottom:18px;
+}
+.home{
+	position:absolute;
+	left:400px;
+	font-size:18px;
+	font-family:Holtwood One SC, serif;
+	
+	
+}
+.about{
+	position:absolute;
+	left:500px;
+		font-size:18px;
+	font-family:Holtwood One SC, serif;
+}
+.products{
+	position:absolute;
+	left:600px;
+		font-size:18px;
+	font-family:Holtwood One SC, serif;
+}
+.store{
+	position:absolute;
+	left:700px;
+		font-size:18px;
+	font-family:Holtwood One SC, serif;
+}
+.img{
+	position:absolute;
+	left:600px;
+	
+}
+.fresh{position:absolute;
+	right:750px;
+	top:460px;
+	width:570px;
+height:440px;
+	background-color:rgba( 255, 255, 255, .9);
+
+}
+.cofe{padding-top:22px;
+	font-size:15px;
+	font-family:Holtwood One SC, serif;
+}
+.worth{	font-size:49px;
+	font-family: Playfair Display SC, serif;
+	color:gray;
+	
+}
+.pp{margin-left:80px;
+margin-right:80px;
+margin-top:40px;
+font-size:18px;}
+.bt{
+		position:absolute;
+	left:200px;
+	top:430px;
+	
+}
+.font{font-size:15px;
+padding:8px 8px 8px 8px;}
+
+.last{position:absolute;
+	top:930px;
+	background-color:rgba( 255, 140,0, .7);
+	padding-top:60px;
+	padding-bottom:40px;
+	margin-top:60px;
+	
+	
+}
+.boxx{border-radius:1%;
+	border:5px solid white;
+	padding:28px 78px 78px 78px;
+	
+	background-color:wheat;}
+	.our{
+		font-size:18px;
+	font-family:Holtwood One SC, serif;
+		
+	}
+	.to{font-size:69px;
+	font-family: Playfair Display SC, serif;
+	color:gray;}
+	
+	.footer{width:1600px;
+	height:80px;
+		position:absolute;
+	top:1230px;
+	background-color:rgba(131, 78, 55, .7);
+	
+	margin-top:300px;
+	}
+	.mm{color:gray;
+		font-size:18px;
+	margin-top:30px}
